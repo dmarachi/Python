@@ -1,0 +1,66 @@
+Invoice Number: 	 12
+------------
+Customer ID:    	 2592
+Invoice Number: 	 12
+Date:           	 03-03-2019
+------------------------------------
+Customer Name: 		 Eva
+Address: 			 Calgary, AB
+Phone: 				 403-789-6589
+Contact: 			 Jawad
+------------------------------------
+Product Name:  Glass  Number:  1  Cost:  5.00  Total:  5.00
+------------------------------------------------------------------------
+Product Name:  Book  Number:  2  Cost:  10.00  Total:  20.00
+------------------------------------------------------------------------
+											Grand total:  25.0
+
+
+Invoice Number: 	 16
+------------
+Customer ID:    	 2594
+Invoice Number: 	 16
+Date:           	 26-03-2019
+------------------------------------
+Customer Name: 		 Jawad
+Address: 			 GP, AB
+Phone: 				 403-589-9821
+Contact: 			 Jill
+------------------------------------
+Product Name:  Notebook  Number:  4  Cost:  7.00  Total:  28.00
+------------------------------------------------------------------------
+Product Name:  Glass  Number:  8  Cost:  5.00  Total:  40.00
+------------------------------------------------------------------------
+											Grand total:  68.0
+
+
+Invoice Number: 	 8
+------------
+Customer ID:    	 2590
+Invoice Number: 	 8
+Date:           	 22-03-2019
+------------------------------------
+Customer Name: 		 Steven
+Address: 			 Calgary, AB
+Phone: 				 403-256-3512
+Contact: 			 Shane
+------------------------------------
+Product Name:  Mango  Number:  1  Cost:  5.00  Total:  5.00
+------------------------------------------------------------------------
+											Grand total:  5.0
+Invoice Number: 	 12
+------------
+Customer ID:    	 2592
+Invoice Number: 	 12
+Date:           	 03-03-2019
+------------------------------------
+Customer Name: 		 Eva
+Address: 			 Calgary, AB
+Phone: 				 403-789-6589
+Contact: 			 Jawad
+------------------------------------
+Product Name:  Glass  Number:  1  Cost:  5.00  Total:  5.00
+------------------------------------------------------------------------
+Product Name:  Book  Number:  2  Cost:  10.00  Total:  20.00
+------------------------------------------------------------------------
+											Grand total:  25.0
